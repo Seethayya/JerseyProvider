@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="JerseyPeovidder:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="JerseyPeovidder.war">
+      <element id="artifact" artifact-name="JerseyPeovidder:war exploded" />
+    </root>
+  </artifact>
+</component>
